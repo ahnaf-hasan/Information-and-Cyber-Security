@@ -1,4 +1,4 @@
-# 🔐 Cyber Security & Information Security Related NotesS
+# 🔐 Cyber Security & Information Security Related Notes
 
 <p align="center">
   <img src="assets/banner.png" width="900" alt="Security Banner">
