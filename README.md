@@ -34,7 +34,7 @@ This repository is intended for educational purposes only.
 Any misuse of the information or tools provided here is strictly the responsibility of the user.
 
 
-## 📬 Follow
+## 📬 You can Follow me
 - GitHub: https://github.com/ahnaf-hasan/
   
 
