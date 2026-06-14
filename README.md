@@ -6,8 +6,7 @@
 
 
 ##  About
-This repository contains resources, notes, tools, and practice materials related to Information Security and Cyber Security.  
-It is designed to help beginners learn the fundamentals and assist intermediate learners in improving their skills.
+This repository contains resources, notes, tools, and practice materials related to Information Security and Cyber Security.It is designed to help beginners learn the fundamentals and assist intermediate learners in improving their skills.
 
 ## 🔎 What is Information & Cyber Security?
 
